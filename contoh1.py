@@ -1,0 +1,1 @@
+print("contoh 1 python")
